@@ -22,6 +22,7 @@ MIDDLEWARE = [
 ]
 
 #CORS_ALLOW_ORIGINS = ["http://localhost:5173"]
+CORS_ALLOW_ORIGINS = ["https://render-deploy-react-fullstackapp.onrender.com"]
 
 STORAGES = {
     "default": {
